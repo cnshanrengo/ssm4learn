@@ -1,0 +1,11 @@
+Loading XML bean definitions from class path resource [spring-mybatis.xml]
+Refreshing org.springframework.context.support.GenericApplicationContext@180bc464: startup date [Sat Feb 04 11:01:24 CST 2017]; root of context hierarchy
+Loading properties file from class path resource [jdbc.properties]
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+Closing org.springframework.context.support.GenericApplicationContext@180bc464: startup date [Sat Feb 04 11:01:24 CST 2017]; root of context hierarchy
+Loading XML bean definitions from class path resource [spring-mybatis.xml]
+Refreshing org.springframework.context.support.GenericApplicationContext@5f2050f6: startup date [Sat Feb 04 11:08:10 CST 2017]; root of context hierarchy
+Loading properties file from class path resource [jdbc.properties]
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+{"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
+Closing org.springframework.context.support.GenericApplicationContext@5f2050f6: startup date [Sat Feb 04 11:08:10 CST 2017]; root of context hierarchy
